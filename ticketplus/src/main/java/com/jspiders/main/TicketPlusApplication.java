@@ -50,6 +50,6 @@ public class TicketPlusApplication {
             default: System.exit(0);
         }
 
-        System.out.println("=======Thanks visit again");
+        System.out.println("=======Thanks visit again======");
     }
 }
